@@ -1,0 +1,40 @@
+{
+  "toolbar": {
+    "trusted": "Transporte estudiantil confiable"
+  },
+  "option": {
+    "home": "Inicio",
+    "assignments": "Asignaciones"
+  },
+  "home": {
+    "title": "Inicio",
+    "welcome": "Bienvenido a FIRSTstudent",
+    "buses": "Autobuses",
+    "loading": "Cargando autobuses...",
+    "noBuses": "No hay autobuses disponibles."
+  },
+  "assignments": {
+    "title": "Asignar Estudiante a Autobús",
+    "newAssignment": "Nueva Asignación",
+    "studentId": "ID de Estudiante",
+    "busId": "ID de Autobús",
+    "assign": "Asignar",
+    "invalidStudent": "ID de Estudiante Inválido",
+    "invalidBus": "Autobús Inválido",
+    "alreadyAssigned": "Ya Asignado",
+    "success": "Asignación creada exitosamente"
+  },
+  "notFound": {
+    "title": "Página No Encontrada",
+    "message": "La ruta {path} no fue encontrada.",
+    "back": "Volver a Inicio"
+  },
+  "table": {
+    "id": "ID",
+    "vehiclePlate": "Placa del Vehículo",
+    "fuelTankType": "Tipo de Tanque",
+    "districtId": "ID de Distrito",
+    "totalSeats": "Capacidad Total",
+    "availableSeats": "Asientos Disponibles"
+  }
+}

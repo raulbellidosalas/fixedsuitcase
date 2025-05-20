@@ -1,0 +1,215 @@
+{
+  "buses": [
+    {
+      "id": 1,
+      "vehiclePlate": "ABC-1234",
+      "fuelTankType": "Type A",
+      "districtId": 1,
+      "totalSeats": 20
+    },
+    {
+      "id": 2,
+      "vehiclePlate": "XYZ-5678",
+      "fuelTankType": "Type B",
+      "districtId": 1,
+      "totalSeats": 25
+    },
+    {
+      "id": 3,
+      "vehiclePlate": "LMN-9012",
+      "fuelTankType": "Type C",
+      "districtId": 2,
+      "totalSeats": 30
+    },
+    {
+      "id": 4,
+      "vehiclePlate": "PQR-3456",
+      "fuelTankType": "Type D",
+      "districtId": 2,
+      "totalSeats": 40
+    },
+    {
+      "id": 5,
+      "vehiclePlate": "STU-7890",
+      "fuelTankType": "Type A",
+      "districtId": 3,
+      "totalSeats": 22
+    },
+    {
+      "id": 6,
+      "vehiclePlate": "VWX-2345",
+      "fuelTankType": "Type C",
+      "districtId": 3,
+      "totalSeats": 35
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Emma",
+      "lastName": "Smith",
+      "districtId": 1,
+      "parentId": 101
+    },
+    {
+      "id": 2,
+      "firstName": "Liam",
+      "lastName": "Smith",
+      "districtId": 1,
+      "parentId": 101
+    },
+    {
+      "id": 3,
+      "firstName": "Olivia",
+      "lastName": "Johnson",
+      "districtId": 1,
+      "parentId": 102
+    },
+    {
+      "id": 4,
+      "firstName": "Noah",
+      "lastName": "Johnson",
+      "districtId": 1,
+      "parentId": 102
+    },
+    {
+      "id": 5,
+      "firstName": "Ava",
+      "lastName": "Wilson",
+      "districtId": 2,
+      "parentId": 103
+    },
+    {
+      "id": 6,
+      "firstName": "James",
+      "lastName": "Wilson",
+      "districtId": 2,
+      "parentId": 103
+    },
+    {
+      "id": 7,
+      "firstName": "Sophia",
+      "lastName": "Anderson",
+      "districtId": 2,
+      "parentId": 104
+    },
+    {
+      "id": 8,
+      "firstName": "William",
+      "lastName": "Anderson",
+      "districtId": 2,
+      "parentId": 104
+    },
+    {
+      "id": 9,
+      "firstName": "Isabella",
+      "lastName": "Jackson",
+      "districtId": 3,
+      "parentId": 105
+    },
+    {
+      "id": 10,
+      "firstName": "Lucas",
+      "lastName": "Jackson",
+      "districtId": 3,
+      "parentId": 105
+    },
+    {
+      "id": 11,
+      "firstName": "Mia",
+      "lastName": "Harris",
+      "districtId": 3,
+      "parentId": 106
+    },
+    {
+      "id": 12,
+      "firstName": "Henry",
+      "lastName": "Harris",
+      "districtId": 3,
+      "parentId": 106
+    },
+    {
+      "id": 13,
+      "firstName": "Charlotte",
+      "lastName": "Lee",
+      "districtId": 1,
+      "parentId": 107
+    },
+    {
+      "id": 14,
+      "firstName": "Ethan",
+      "lastName": "Walker",
+      "districtId": 2,
+      "parentId": 108
+    },
+    {
+      "id": 15,
+      "firstName": "Amelia",
+      "lastName": "Walker",
+      "districtId": 2,
+      "parentId": 108
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "busId": 1,
+      "assignedAt": "2025-05-01T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "busId": 1,
+      "assignedAt": "2025-05-01T08:00:00Z"
+    },
+    {
+      "id": 3,
+      "studentId": 3,
+      "busId": 1,
+      "assignedAt": "2025-05-02T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "studentId": 4,
+      "busId": 1,
+      "assignedAt": "2025-05-02T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "studentId": 5,
+      "busId": 3,
+      "assignedAt": "2025-05-02T09:00:00Z"
+    },
+    {
+      "id": 6,
+      "studentId": 6,
+      "busId": 3,
+      "assignedAt": "2025-05-03T10:00:00Z"
+    },
+    {
+      "id": 7,
+      "studentId": 7,
+      "busId": 3,
+      "assignedAt": "2025-05-04T11:00:00Z"
+    },
+    {
+      "id": 8,
+      "studentId": 8,
+      "busId": 3,
+      "assignedAt": "2025-05-04T11:00:00Z"
+    },
+    {
+      "id": 9,
+      "studentId": 9,
+      "busId": 5,
+      "assignedAt": "2025-05-05T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "studentId": 10,
+      "busId": 5,
+      "assignedAt": "2025-05-05T12:00:00Z"
+    }
+  ]
+}

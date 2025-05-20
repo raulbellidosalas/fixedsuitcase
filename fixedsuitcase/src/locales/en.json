@@ -1,0 +1,40 @@
+{
+  "toolbar": {
+    "trusted": "Trusted student transportation"
+  },
+  "option": {
+    "home": "Home",
+    "assignments": "Assignments"
+  },
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome to FIRSTstudent",
+    "buses": "Buses",
+    "loading": "Loading buses...",
+    "noBuses": "No buses available."
+  },
+  "assignments": {
+    "title": "Assign Student to Bus",
+    "newAssignment": "New Assignment",
+    "studentId": "Student Id",
+    "busId": "Bus Id",
+    "assign": "Assign",
+    "invalidStudent": "Invalid Student Id",
+    "invalidBus": "Invalid Bus",
+    "alreadyAssigned": "Already Assigned",
+    "success": "Assignment created successfully"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The route {path} was not found.",
+    "back": "Back to Home"
+  },
+  "table": {
+    "id": "ID",
+    "vehiclePlate": "Vehicle Plate",
+    "fuelTankType": "Fuel Tank Type",
+    "districtId": "District ID",
+    "totalSeats": "Total Capacity",
+    "availableSeats": "Available Seats"
+  }
+}
