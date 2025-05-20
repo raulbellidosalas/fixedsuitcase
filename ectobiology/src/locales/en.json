@@ -1,0 +1,20 @@
+{
+  "toolbar": { "home": "Home", "checkIn": "Check-In" },
+  "home": { "title": "Home", "welcome": "Welcome to Eventify", "registeredEvents": "Registered Events" },
+  "event": { "registered": "Registered Attendees", "attendance": "Attendance %" },
+  "checkIn": {
+    "title": "Event Check-In",
+    "ticketValidation": "Ticket Validation",
+    "ticketIdentifier": "Ticket Identifier",
+    "button": "Check-In",
+    "invalidTicket": "Invalid Ticket Identifier",
+    "alreadyCheckedIn": "Already Checked-In",
+    "eventId": "Event ID",
+    "eventName": "Event Name",
+    "eventDescription": "Event Description",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "checkedInAt": "Checked In At"
+  },
+  "notFound": { "title": "Page Not Found", "message": "The route {path} was not found.", "back": "Back to Home" }
+}

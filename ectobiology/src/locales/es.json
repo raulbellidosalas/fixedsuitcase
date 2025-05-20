@@ -1,0 +1,20 @@
+{
+  "toolbar": { "home": "Inicio", "checkIn": "Registro" },
+  "home": { "title": "Inicio", "welcome": "Bienvenido a Eventify", "registeredEvents": "Eventos Registrados" },
+  "event": { "registered": "Asistentes Registrados", "attendance": "Porcentaje de Asistencia" },
+  "checkIn": {
+    "title": "Registro de Evento",
+    "ticketValidation": "Validación de Boleto",
+    "ticketIdentifier": "Identificador de Boleto",
+    "button": "Registrar",
+    "invalidTicket": "Identificador de Boleto Inválido",
+    "alreadyCheckedIn": "Ya Registrado",
+    "eventId": "ID del Evento",
+    "eventName": "Nombre del Evento",
+    "eventDescription": "Descripción del Evento",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "checkedInAt": "Registrado En"
+  },
+  "notFound": { "title": "Página No Encontrada", "message": "La ruta {path} no fue encontrada.", "back": "Volver a Inicio" }
+}

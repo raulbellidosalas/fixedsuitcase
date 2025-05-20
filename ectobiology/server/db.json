@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Tech Conference 2025",
+      "description": "Annual technology conference featuring AI and cloud computing.",
+      "scheduledAt": "2025-06-01T09:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Music Festival 2025",
+      "description": "A weekend of live music performances across genres.",
+      "scheduledAt": "2025-07-15T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Startup Pitch Night",
+      "description": "Entrepreneurs pitch innovative ideas to investors.",
+      "scheduledAt": "2025-05-20T18:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Art Exhibition",
+      "description": "Showcase of contemporary art from local artists.",
+      "scheduledAt": "2025-04-10T10:00:00Z"
+    }
+  ],
+  "attendees": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "eventId": 1,
+      "ticketIdentifier": "TICKET123",
+      "checkedInAt": null
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "eventId": 1,
+      "ticketIdentifier": "TICKET456",
+      "checkedInAt": "2025-06-01T08:45:00Z"
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "eventId": 2,
+      "ticketIdentifier": "MUSIC789",
+      "checkedInAt": "2025-05-20T05:27:47.432Z"
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "eventId": 2,
+      "ticketIdentifier": "MUSIC012",
+      "checkedInAt": "2025-05-19T22:09:19.370Z"
+    },
+    {
+      "id": 5,
+      "firstName": "Emma",
+      "lastName": "Davis",
+      "eventId": 3,
+      "ticketIdentifier": "PITCH345",
+      "checkedInAt": "2025-05-20T17:30:00Z"
+    },
+    {
+      "id": 6,
+      "firstName": "Michael",
+      "lastName": "Wilson",
+      "eventId": 3,
+      "ticketIdentifier": "PITCH678",
+      "checkedInAt": null
+    },
+    {
+      "id": 7,
+      "firstName": "Sarah",
+      "lastName": "Taylor",
+      "eventId": 4,
+      "ticketIdentifier": "ART901",
+      "checkedInAt": null
+    },
+    {
+      "id": 8,
+      "firstName": "David",
+      "lastName": "Lee",
+      "eventId": 4,
+      "ticketIdentifier": "ART234",
+      "checkedInAt": "2025-04-10T09:50:00Z"
+    },
+    {
+      "id": 9,
+      "firstName": "Laura",
+      "lastName": "Martinez",
+      "eventId": 1,
+      "ticketIdentifier": "TICKET999",
+      "checkedInAt": null
+    }
+  ]
+}
